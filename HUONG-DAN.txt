@@ -1,0 +1,17 @@
+WINTER WONDERLAND — HOLIDAY EXPERIENCE 2026
+
+CÀI ĐẶT
+1. Giải nén toàn bộ gói ZIP vào thư mục website.
+2. Giữ nguyên index.html, admin.html và thư mục music.
+3. Nhạc nền instrumental nguyên bản Noël Nocturne được lưu tại music/noel.mp3.
+4. Trình duyệt iPhone/Android chỉ cho phép phát nhạc sau thao tác chạm; khách có thể bật/tắt bằng nút âm thanh góc dưới.
+
+ĐẶT LỊCH
+- Form đặt lịch đã được bố trí lại theo lưới 2 cột trên desktop, 1 cột trên điện thoại.
+- Giỏ quà tách thành thẻ riêng, không còn sticky chồng lên form.
+- Logic Supabase và RPC create_booking được giữ nguyên.
+
+DỮ LIỆU
+- Giữ cấu hình Supabase hiện có và toàn bộ admin.html.
+- Vui lòng kiểm thử staging trước khi đưa lên website chính.
+- Không đổi tên các file trong gói.
